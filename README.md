@@ -12,6 +12,7 @@ this is for **me** to learn how to use *github*
 - ice cream
 - pizza
 - sushi
+- steak
 
 `printf("Hello world");` will be used
 
